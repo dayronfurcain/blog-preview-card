@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Blog preview card](https://your-solution-url.com)
-- Live Site URL: [Blog preview card](https://your-live-site-url.com)
+- Solution URL: [Blog preview card](https://github.com/dayronfurcain/blog-preview-card)
+- Live Site URL: [Blog preview card](https://dayronfurcain.github.io/blog-preview-card)
 
 ## My process
 
